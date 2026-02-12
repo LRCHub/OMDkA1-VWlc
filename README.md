@@ -1,0 +1,85 @@
+# MEGA NRG MAN – BACK ON THE ROCKS
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+When you get to the top
+You ever been to the top?
+Just listen... let me tell ya
+Hear what you're missin'
+Shut up and listen
+In the beginning you get crazy
+Spending all the money you got
+No more women to love you now
+You gotta go and leave town
+
+Back on the rocks
+Back on the rocks, baby!
+You've gotta keep your mind together
+Back on the rocks
+Back on the rocks, baby!
+You've gotta go and live forever
+Back on the rocks
+Back on the rocks, baby!
+You've gotta keep your mind together
+Back on the rocks
+Back on the rocks, baby!
+You've gotta go and live forever
+
+When you're back on the rocks
+It means you've been to the top
+Just listen... to the bad boy
+Givin' the facts on
+It can be all gone
+In the beginning you get crazy
+Spending all the money you got
+No more women to love you now
+You gotta go and leave town
+
+Back on the rocks
+Back on the rocks, baby!
+You've gotta keep your mind together
+Back on the rocks
+Back on the rocks, baby!
+You've gotta go and live forever
+Back on the rocks
+Back on the rocks, baby!
+You've gotta keep your mind together
+Back on the rocks
+Back on the rocks, baby!
+You've gotta go and live forever
+
+Back on the rocks
+Back on the rocks
+Woah, wo-o-oah
+Back on the rocks
+Back on the rocks
+Woah, wo-o-oah
+
+When you get to the top
+You ever been to the top?
+In the beginning you get crazy
+Spending all the money you got
+No more women to love you now
+You gotta go and leave town
+
+Back on the rocks
+Back on the rocks, baby!
+You've gotta keep your mind together
+Back on the rocks
+Back on the rocks, baby!
+You've gotta go and live forever
+Back on the rocks
+Back on the rocks, baby!
+You've gotta keep your mind together
+Back on the rocks
+Back on the rocks, baby!
+You've gotta go and live forever
+
+Back on the rocks
+Back on the rocks
+Woah, wo-o-oah
+Back on the rocks
+Back on the rocks
+Woah, wo-o-oah
+```
