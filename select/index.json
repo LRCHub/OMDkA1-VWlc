@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "BACK ON THE ROCKS",
+  "base_artist": "MEGA NRG MAN",
+  "createdAt": "2026-02-12T09:40:06.195546Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Back on the Rocks",
+      "artist": "Dave Rodgers",
+      "has_synced": false,
+      "path": "select/01_Back_on_the_Rocks_Dave_Rodgers.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Back On The Rocks",
+      "artist": "Mega NRG Man",
+      "has_synced": true,
+      "path": "select/02_Back_On_The_Rocks_Mega_NRG_Man.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Back On The Rocks / Mega NRG Man",
+      "artist": "Home Mix",
+      "has_synced": true,
+      "path": "select/03_Back_On_The_Rocks___Mega_NRG_Man_Home_Mix.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Back on the Rocks",
+      "artist": "Mega NRG Man",
+      "has_synced": true,
+      "path": "select/04_Back_on_the_Rocks_Mega_NRG_Man.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Back on the Rocks (Extended Mix)",
+      "artist": "Mega Nrg Man",
+      "has_synced": true,
+      "path": "select/05_Back_on_the_Rocks_(Extended_Mix)_Mega_Nrg_Man.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Back on the Rocks",
+      "artist": "Mega NRG Man",
+      "has_synced": true,
+      "path": "select/06_Back_on_the_Rocks_Mega_NRG_Man.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BACK ON THE ROCKS",
+      "artist": "MEGA NRG MAN",
+      "has_synced": false,
+      "path": "select/pl_01_BACK_ON_THE_ROCKS_MEGA_NRG_MAN.txt"
+    }
+  ]
+}
